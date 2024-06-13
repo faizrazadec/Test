@@ -6,4 +6,5 @@ temp/
 
 #ignore ALL .sh files
 *.sh
+
 new/
